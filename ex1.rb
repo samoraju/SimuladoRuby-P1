@@ -64,8 +64,3 @@ class Eleicao < Candidato
     end #fim metodo mostrar_votos_partido
 
 end #fim classe Eleicao
-
-
-e = Eleicao.new(2010, '')
-
-e.votar
