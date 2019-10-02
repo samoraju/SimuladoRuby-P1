@@ -28,7 +28,3 @@ class IMC
             
     end #fim calcula_imc
 end #fim IMC
-
-#testando
-i = IMC.new(1.64,64)
-i.calcula_imc
